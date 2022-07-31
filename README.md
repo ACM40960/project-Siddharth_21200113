@@ -73,6 +73,8 @@ To run all the cells at once :
 - Go to cells tab
 - Select run all
 
+The runtime for entire script is around `2 to 3` minutes.
+
 ## Authors
 
 - [Siddharth Rastogi](https://github.com/Sid-rastogi)
