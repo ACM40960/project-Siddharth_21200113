@@ -1,5 +1,6 @@
 # LaLiga 2019-2020 Play analysis
 
+**Note : Same file is also available in repository : https://github.com/ACM40960/project-Malhotra-G, as it is a combined project.** 
 ## Overview
 
 Analysing the LaLiga teams in terms of their passing, attacking and defending plays using the 2019-2020 Season as our reference.
@@ -74,5 +75,6 @@ To run all the cells at once :
 
 ## Authors
 
-- [Gautam Malhotra](https://github.com/Malhotra-G)
 - [Siddharth Rastogi](https://github.com/Sid-rastogi)
+- [Gautam Malhotra](https://github.com/Malhotra-G)
+
