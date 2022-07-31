@@ -66,7 +66,9 @@ import sys
 
 ## Running the code
 
-**Note :** Both the csv files are in zip folder `data`. Before running the code, folder needs to be downloaded and unzipped. Please keep the unzipped data folder in the same location as the jupyter notebook.
+Both data(csv) files and jupyter notebook were quite heavy, both the files have been zipped separately. Jupyter notebook needs to downloaded and unzipped before running the code.
+
+**Note :** Both the csv files are in zip folder `data`. Before running the code, folder needs to be downloaded and unzipped. Please keep the unzipped data folder in the same location or directory as the jupyter notebook(unzipped).
 
 Once, the libraries are installed, either user can run the code cell by cell or there is a option to run all.
 To run all the cells at once :
